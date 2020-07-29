@@ -1,0 +1,116 @@
+@charset "utf-8";
+* {
+	margin:0
+}
+#offer {
+	width: 475px;
+	height: 490px;
+	background-color: #0072C6;
+	float: left;
+}
+#offer #text {
+	width: 475px;
+	height: 190px;
+	padding-top: 15px;
+	padding-right: 31px;
+	padding-bottom: 15px;
+	padding-left: 31px;
+}
+#shellTBL {
+}
+#shellTBL #signin {
+	width: 420px;
+	height: 494px;
+	float: left;
+	margin-top: 40px;
+}
+#conteudo {
+	margin-top: 40px;
+	margin-left: 220px;
+}
+#rodape {
+	width: 100%;
+	background-color: #E1E1E1;
+	clear: both;
+	height: 88px;
+}
+body {
+
+}
+
+h1 {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-weight: 100;
+	font-size: 26px;
+}
+#offer #text p {
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-weight: 100;
+	font-size: 12px;
+}
+#form {
+	margin-left: 110px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+}
+#logo {
+	margin-left: 110px;
+	margin-bottom: 30px;
+}
+.conectado {
+	font-size: 14px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+input[type=button] {
+	width: 85px;
+	height: 30px;
+	padding-top: 3px;
+	padding-right: 12px;
+	padding-bottom: 5px;
+	padding-left: 12px;
+	background-color: #0072C6;
+	color: #FFFFFF;
+	border-width: 0;
+	border-style: none;
+}
+.pad-inscrever {
+	padding-bottom: 7px;
+}
+#inscrevase {
+	font-size: 14px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	margin-top: 105px;
+}
+#menu-footer {
+	float: right;
+	clear: right;
+	margin-right: 250px;
+}
+#logo-microsoft {
+	float: right;
+	margin-right: 250px;
+}
+
+
+
+
+
+
+
+a {
+	text-decoration: none;
+	color: #0072C6;
+}
+a:hover {
+	color: #2672EC;
+}
+input[type=email] {
+	width: 302px;
+	height: 22px;
+}
+input[type=password] {
+	width: 302px;
+	height: 22px;
+}
